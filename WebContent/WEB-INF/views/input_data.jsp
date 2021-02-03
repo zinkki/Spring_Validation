@@ -31,6 +31,7 @@
 				<form:errors path="data8"/><br>
 		data9 : <form:input path="data9" type="text"/><br>
 				<form:errors path="data9"/><br>
+				
 		<form:button type="submit">OK</form:button>	
 	</form:form>
 </body>

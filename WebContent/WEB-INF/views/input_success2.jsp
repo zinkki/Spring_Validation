@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>index.jsp</h1><br>
-	<a href="input_data">input_data</a><br>
-	<a href="input_data2">input_data2</a><br>
+	<h1>input_success2</h1>
 </body>
 </html>
